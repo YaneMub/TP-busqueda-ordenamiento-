@@ -26,11 +26,11 @@ El trabajo incluye:
 Este trabajo nos permitió aplicar los conceptos aprendidos en clase sobre algoritmos, estructuras de control y lógica de programación.
 Pudimos ver cómo distintos métodos de búsqueda y ordenamiento resuelven el mismo problema de diferentes maneras, y analizar su eficiencia según el tamaño de los datos.
 
-## Alumnos: 
+# Alumnos: 
 - Lagos Alejandro
 - Mubilla Yanela Luciana
 
-# Fecha 09 de Junio 2025
+Fecha 09 de Junio 2025
 
 
 
