@@ -2,8 +2,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto corresponde al Trabajo Práctico Integrador de la asignatura **Programación I** (UTN – modalidad a distancia).  
-Se exploran e implementan distintos algoritmos de búsqueda y ordenamiento aplicados a una lista de códigos de productos.
+Este proyecto corresponde al Trabajo Práctico Integrador de la asignatura **Programación I** (UTN – modalidad a distancia) en el cual se exploraron e implementaron distintos algoritmos de búsqueda y ordenamiento aplicados a una lista de códigos de productos.
 
 El trabajo incluye:
 
@@ -29,6 +28,8 @@ Pudimos ver cómo distintos métodos de búsqueda y ordenamiento resuelven el mi
 # Alumnos: 
 - Lagos Alejandro
 - Mubilla Yanela Luciana
+
+  Comisión 8
 
 Fecha 09 de Junio 2025
 
