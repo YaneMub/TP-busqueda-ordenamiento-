@@ -31,6 +31,8 @@ Pudimos ver cómo distintos métodos de búsqueda y ordenamiento resuelven el mi
 
   Comisión 8
 
+  VIDEO EXPLICATIVO: https://youtu.be/oIIuos6RLJw 
+
 Fecha 09 de Junio 2025
 
 
